@@ -45,7 +45,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-  - host: "app1.suhaildevops.online"
+  - host: "app2.suhaildevops.online"
     http:
       paths:
       - path: /
